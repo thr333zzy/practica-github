@@ -1,0 +1,3 @@
+﻿Practica de GitHub.
+Este repositorio tiene las ramas main y dev.
+
